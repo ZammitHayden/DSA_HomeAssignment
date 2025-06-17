@@ -1,0 +1,14 @@
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\bin\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.exe
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\bin\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.deps.json
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\bin\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.runtimeconfig.json
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\bin\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.dll
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\bin\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.pdb
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\obj\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\obj\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.AssemblyInfoInputs.cache
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\obj\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.AssemblyInfo.cs
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\obj\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\obj\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.dll
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\obj\Debug\net8.0\refint\Task 1 - Searching and Sorting Algorithms.dll
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\obj\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.pdb
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\obj\Debug\net8.0\Task 1 - Searching and Sorting Algorithms.genruntimeconfig.cache
+C:\Users\zamha\Desktop\DSA - A2 - Part Soution\DSA - A2 - Part Soution\DSA - A2 - Part Soution\Task 1 - Searching and Sorting Algorithms\obj\Debug\net8.0\ref\Task 1 - Searching and Sorting Algorithms.dll
